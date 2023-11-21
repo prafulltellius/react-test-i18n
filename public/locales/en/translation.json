@@ -1,0 +1,6 @@
+{
+    "Hello": "Hello",
+    "Hello {{name}}": "Hello {{name}}",
+    "Hello {{name}} working in {{job}}": "Hello {{name}} working in {{job}}"
+  }
+  

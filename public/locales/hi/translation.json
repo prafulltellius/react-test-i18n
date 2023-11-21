@@ -1,0 +1,6 @@
+{
+    "Hello": "नमस्ते",
+    "Hello {{name}}": "नमस्ते {{name}}",
+    "Hello {{name}} working in {{job}}": "नमस्कार {{name}} {{job}} में कार्यरत"
+}
+  
